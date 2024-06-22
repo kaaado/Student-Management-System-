@@ -55,5 +55,5 @@ Modifying a Student
 
 For any questions or suggestions, feel free to contact me:
 
-  Name: Yacine Kermame
-  Email: yacineyoyoker@gmail.com
+- Name: Yacine Kermame
+- Email: yacineyoyoker@gmail.com
